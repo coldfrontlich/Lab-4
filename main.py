@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
-from sqrEq import sqr_eq
+from sqreq import sqr_eq
 
 
 def close():
